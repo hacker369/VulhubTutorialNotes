@@ -5,7 +5,6 @@ This is a tutorial note on how I cleared the Vulhub target range, including pict
 
 Vulhub靶场总体来说是个不错的靶场,很适合网安萌新学到一定程度来练习,通过使用docker去一键部署靶场环境,省去了繁琐的步骤,真的的做到了一键开箱即用.模拟真实的实战环境.当然靶场也在不断的更新案例.希望你们在靶场里面玩的开心,水平能上升到一定的程度.
 
-对 dev 分支下面的 README.md 进行文本内容添加修改。
 
 # Vulhub镜像清理
 
